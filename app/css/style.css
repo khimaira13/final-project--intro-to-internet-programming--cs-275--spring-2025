@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+#diamond-container {
+  font-family: 'Courier New', monospace;
+  font-size: 16px;
+  line-height: 10px;
+  white-space: pre;
+  font-weight: 700;
+  color: black;
+  border: 2px solid black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  padding: 5px;
+}
