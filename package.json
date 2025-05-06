@@ -1,0 +1,31 @@
+{
+  "name": "final-project--intro-to-internet-programming--cs-275--spring-2025",
+  "version": "1.0.0",
+  "description": "☞ **Plagiarism in any form will result in failing the entire course. You’ve been duly warned.** ☜",
+  "homepage": "https://github.com/khimaira13/final-project--intro-to-internet-programming--cs-275--spring-2025#readme",
+  "bugs": {
+    "url": "https://github.com/khimaira13/final-project--intro-to-internet-programming--cs-275--spring-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khimaira13/final-project--intro-to-internet-programming--cs-275--spring-2025.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel": "^5.8.38",
+    "browser-sync": "^3.0.4",
+    "gulp": "^5.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-stylelint": "^13.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
